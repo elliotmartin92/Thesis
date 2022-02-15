@@ -53,13 +53,13 @@
 
 # Oo-site: A dashboard to visualize gene expression during *Drosophila* oogenesis reveals meiotic entry is regulated post-transcriptionally
 
-Elliot T. Martin^1\*^, Kahini Sarkar^1,\ 4^, Alicia McCarthy^1^, and
-Prashanth Rangan^1,4\*^
+Elliot T. Martin^1\*^, Kahini Sarkar^1,\ 1^, Alicia McCarthy^1^, and
+Prashanth Rangan^1,2\*^
 
 ^1^Department of Biological Sciences/RNA Institute, University at Albany
 SUNY, Albany, NY 12202
 
-^4^Black Family Stem Cell Institute, Department of Cell, Developmental,
+^2^Black Family Stem Cell Institute, Department of Cell, Developmental,
 and Regenerative Biology, Icahn School of Medicine at Mount Sinai, 1
 Gustave L. Levy Place, New York, NY 10029, USA
 

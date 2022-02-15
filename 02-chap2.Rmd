@@ -87,7 +87,7 @@
 
 # A translation control module coordinates germline stem cell differentiation with ribosome biogenesis during *Drosophila* oogenesis
 
-Elliot T. Martin^1^\*, Patrick Blatt^1^\*, Elaine Nguyen^2^, Roni Lahr^2^, Sangeetha Selvam^1^, Hyun Ah M. Yoon^1,3^, Tyler Pocchiari^1,4^, Shamsi Emtenani^5^, Daria E. Siekhaus^5^, Andrea Berman^2^, Gabriele Fuchs^1†^ and Prashanth Rangan^1†^
+Elliot T. Martin^1^\*, Patrick Blatt^1^\*, Elaine Nguyen^2^, Roni Lahr^2^, Sangeetha Selvam^1^, Hyun Ah M. Yoon^1,3^, Tyler Pocchiari^1,4^, Shamsi Emtenani^5^, Daria E. Siekhaus^5^, Andrea Berman^2^, Gabriele Fuchs^1†^ and Prashanth Rangan^6†^
 
 ^1^Department of Biological Sciences/RNA Institute, University at Albany SUNY, Albany, NY 12202
 
@@ -99,11 +99,13 @@ Elliot T. Martin^1^\*, Patrick Blatt^1^\*, Elaine Nguyen^2^, Roni Lahr^2^, Sange
 
 ^5^Institute of Science and Technology Austria, Klosterneuburg, Austria
 
+^6^Black Family Stem Cell Institute, Department of Cell, Developmental, and Regenerative Biology, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Place, New York, NY 10029, USA
+
 \*These authors contributed equally to this work
 
 ^†^Co-corresponding authors
 
-Email: gfuchs\@albany.edu, prangan\@albany.edu
+Email: gfuchs\@albany.edu, prashanth.rangan\@mssm.edu
 
 \setstretch{2.0}
 
@@ -471,7 +473,7 @@ Results of Larp::GFP::3XFLAG IP/IgG/Input mRNAseq. Each sheet contains the outpu
 
 **Lead Contact:**
 
-Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Prashanth Rangan ([prangan\@albany.edu](mailto:prangan@albany.edu){.email}).
+Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Prashanth Rangan ([prashanth.rangan\@mssm.edu](mailto:prangan@albany.edu){.email}).
 
 **Materials availability:**
 
