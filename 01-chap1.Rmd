@@ -24,7 +24,7 @@ Patrick Blatt, Elliot T. Martin, Shane M. Breznak, Prashanth Rangan\*
 Department of Biological Sciences/RNA Institute, University at Albany
 SUNY, Albany, NY
 University at Albany SUNY, 1400 Washington Avenue, Albany, 12222, USA
-\*Correspondence to: prangan\@albany.edu
+\*Correspondence to: prashanth.rangan\@mssm.edu
 
 \setstretch{2.0}
 
