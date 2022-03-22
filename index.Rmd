@@ -3,10 +3,10 @@ title: Translation control tunes *Drosophila* oogenesis
 author: Elliot T. Martin
 date: May 2022
 institution: 'University at Albany, State University of New York'
-division: Biology
+division: Biological Sciences
 advisor: Prashanth Rangan
 altadvisor: Gabriele Fuchs
-department: Biology
+department: Biological Sciences
 degree: Doctor of Philosophy
 knit: bookdown::render_book
 site: bookdown::bookdown_site

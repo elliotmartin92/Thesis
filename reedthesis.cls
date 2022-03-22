@@ -202,8 +202,8 @@
 \def\department#1{\gdef \@department{#1}}
 \def\@department{\@latex@warning@no@line{No \noexpand\department given}}
 \def\thedivisionof#1{\gdef \@thedivisionof{#1}}
-\def\@thedivisionof{The Department of}
-\def\approvedforthe#1{\gdef \@approvedforthe{#1}}
+\def\@thedivisionof{Department of}
+\def\vedforthe#1{\gdef \@approvedforthe{#1}}
 \def\@approvedforthe{Division}
 \def\advisor#1{\gdef \@advisor{#1}}
 \def\@advisor{\@latex@warning@no@line{No \noexpand\advisor given}}
@@ -324,10 +324,10 @@
     \vfil
     \centerline{\hbox to \wd0 {\hbox{}\hrulefill\hbox{}}}
     \vfil
-    A Thesis Submitted to \\
+    A Dissertation Submitted to the \\
     \@institution \\
     in Partial Fulfillment \\
-    of the Requirements for the Degree \\
+    of the Requirements for the Degree of \\
     \@degree
     \vfil
     \centerline{\hbox to \wd0 {\hbox{}\hrulefill\hbox{}}}
@@ -336,10 +336,9 @@
     \bigskip
     {\fontsize{12}{14}\selectfont \lineskip .75em
     \begin{tabular}[t]{c}%
-      \@institution \\
+      College of Arts and Sciences \\
       \@thedivisionof \ \@division
     \end{tabular}\par}
-    \vskip 1.5em
     {\fontsize{12}{14}\selectfont \@date \par}
   \end{center}\par
   \end{titlepage}
