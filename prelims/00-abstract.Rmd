@@ -1,7 +1,7 @@
 
 \setstretch{2.0}  
 
-\par The decision of a stem cell to either self-renew or differentiate is controlled by specific cellular pathways that can act at the level of transcription, translation, or post-translation. To study the regulation of these pathways *in-vivo*, I have used the female *Drosophila* germline as a model system. 
+\par The decision of a stem cell to either self-renew or differentiate is controlled by specific cellular pathways that can act at the level of transcription, translation, or post-translation. To study the regulation of these pathways *in-vivo*, I have used the female *Drosophila* germline as a model system.  
 
 \par Each of the steps from germline stem cell (GSC) to egg require changes in cellular pathways. These changes can occur at the level of transcription, post-transciption, translation, or post-translation . Decades of research has elucidated many of the changes to gene that occur during oogenesis, however, many players in this process still remain mysterious. My work has helped to identify and characterize novel developmental mechanisms that are required for the successive developmental transitions that take place during oogenesis. I have leveraged RNAseq and polysome-seq to probe the global transcription and translation landscape over development and used the power of *Drosophila* genetics in concert with these sequencing techniques to identify and characterize misregulated pathways.  
 
